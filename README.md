@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Cyberpunx's github stats](https://github-readme-stats.vercel.app/api?username=cyberpunx&count_private=true&show_icons=true&theme=graywhite&hide_border=true&custom_title="CyberpuNx's Stats")](https://github.com/anuraghazra/github-readme-stats)
+[![Cyberpunx's github stats](https://github-readme-stats.vercel.app/api?username=cyberpunx&count_private=true&show_icons=true&theme=graywhite&hide_border=true&custom_title=CyberpuNx)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
