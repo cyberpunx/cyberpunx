@@ -1,4 +1,8 @@
-<p align="right">![](https://komarev.com/ghpvc/?username=cyberpunx&color=blueviolet)</p>
+<p align="right">
+
+![](https://komarev.com/ghpvc/?username=cyberpunx&color=blueviolet)
+
+</p>
 <br>
 <h1 align="center">Hi 👋, I'm Franco AKA "Cyberpunx"</h1>
 <h3 align="center">A full-stack developer from 🗻 Patagonia, Argentina [ 🇦🇷 ]</h3> 
