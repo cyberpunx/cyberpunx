@@ -31,7 +31,7 @@
 
 <div align="center">  
   
-| [![Cyberpunx's github stats](https://github-readme-stats.vercel.app/api?username=cyberpunx&count_private=true&show_icons=true&theme=slateorange&hide_border=true&custom_title=Cyberpunx)](https://github.com/anuraghazra/github-readme-stats) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberpunx&show_icons=true&locale=en&hide=php" alt="cyberpunx" /> |
+| [![Cyberpunx's github stats](https://github-readme-stats.vercel.app/api?username=cyberpunx&count_private=true&show_icons=true&theme=slateorange&hide_border=true&custom_title=Cyberpunx)](https://github.com/anuraghazra/github-readme-stats) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberpunx&show_icons=true&locale=en&hide=php&theme=slateorange" alt="cyberpunx" /> |
 |:-:|:-:|
 
 
